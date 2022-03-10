@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 """Aula 4 condicional for, testa se um número é primo"""
+=======
+"""Aula 4"""
+>>>>>>> refs/remotes/origin/main
 
 """Percorre de 0 a 100 e exibe cada passada """
 for x in range(101):
