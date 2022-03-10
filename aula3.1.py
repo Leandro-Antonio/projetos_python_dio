@@ -1,4 +1,4 @@
-"""Aula3 -  testar se o número é par"""
+"""Aula3.1 -  testar se o número é par"""
 numero = int(input('Entre com um número: '))
 resto = numero % 2
 if resto == 0:
