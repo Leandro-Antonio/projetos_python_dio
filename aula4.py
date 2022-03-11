@@ -10,11 +10,6 @@ for y in range(90, 100):
     print(y)
 print("fim")
 
-"""Percorre de 90 até 109 e exibe cada passada"""
-for y in range(90, 100):
-    print(y)
-print("fim")
-
 """Testa se um número é primo """
 div = 0
 numero = int(input("Digite um número"))
